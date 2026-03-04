@@ -1,12 +1,4 @@
-# Pintora Coder — Teaching an LLM a Niche Diagramming Language
-
-Full codebase accompanying the blog post:
-**[Teaching an LLM a Niche Diagraming Language](https://www.huy.rocks/everyday/12-01-2025-ai-teaching-an-llm-a-niche-diagraming-language)**
-by Huy Tran.
-
----
-
-## Goal
+    ## Goal
 Fine-tune **Qwen2.5-Coder-7B** to generate and edit [Pintora](https://pintorajs.vercel.app/) diagrams
 using a two-phase training pipeline, then optionally improve accuracy with RL (GRPO).
 
